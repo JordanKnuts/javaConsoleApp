@@ -1,10 +1,10 @@
 # javaConsoleApp
 
 ### Create a database
-PORT : 3306
-name:centre_formation 
-user:carmelo
-password:carmelo
+* PORT : 3306
+* name:centre_formation 
+* user:carmelo
+* password:carmelo
 
 
 ### open ProjetSGBD in netbeans
