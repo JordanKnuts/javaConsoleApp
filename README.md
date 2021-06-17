@@ -1,18 +1,18 @@
 # javaConsoleApp
 
-### Creez une base de donnée 
+### Create a database
 PORT : 3306
-nom:centre_formation 
+name:centre_formation 
 user:carmelo
-mdp:carmelo
+password:carmelo
 
 
-### Dézippez ProjetSGBD.rar
+### open ProjetSGBD in netbeans
 
-### Ajoutez les deux JAR : jbcrypt & mysql-connector
+### Add JAR in netbeans : jbcrypt & mysql-connector
 
 # users:
-	Login			MDP
+	Login			Password
 	admin			root
 	user			root
 	user2			root
